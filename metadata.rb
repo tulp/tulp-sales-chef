@@ -1,0 +1,13 @@
+name             'tulp-sales'
+maintainer       'Tulp.ru LLC'
+maintainer_email 'hlyzov@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures tulp-sales'
+version          '0.1.0'
+
+depends          'sudo'
+depends          'rvm'
+depends          'postgresql'
+depends          'nginx'
+depends          'iptables'
+depends          'tulp'
